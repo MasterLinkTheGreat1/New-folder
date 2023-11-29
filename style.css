@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'sfp';
+    font-family: 'sfm';
     src: url('sfmed.OTF') format('OpenType');
 
 }
@@ -110,16 +110,37 @@ h3 {
 
 
 h4 {
-    font-family: 'sfb';
+    font-family: 'sfm';
     font-size: 25px;
     color: #b0b0b0;
 }
 
 
 h5 {
-    font-family: 'sfb';
+    font-family: 'sfm';
     font-size: 20px;
     color: #b0b0b0;
 }
 
 
+hr {
+    color:yellow;
+    border-width: 5px;
+}
+
+p {
+    color: #b0b0b0;
+    font-family: 'sfpr';
+    font-size: 16px;
+}
+
+.macro {
+    font-style: italic;
+    font-style: bold;
+    background: linear-gradient(90.02deg, #70F1D5 0.02%, #E065B3 27.09%, #FAE560 51.04%, #54B8F3 76.56%, #9260DE 99.99%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+    font-family: 'sfb';
+
+}
