@@ -45,7 +45,7 @@ html,body {
     width: 1850px;
     margin: auto;
     background-color: #301934;
-    color: #b0b0b0
+
 }
 
 :root {
@@ -87,3 +87,39 @@ a:active {
     color: white;
 
 }
+
+h1 {
+    font-family: 'sfb';
+    font-size: 38px;
+    font-style: bold;
+    color: white;
+}
+
+h2 {
+    font-family: 'sfb';
+    font-size: 35px;
+    font-style: bold;
+    color: #b0b0b0;
+}
+
+h3 {
+    font-family: 'sfb';
+    font-size: 30px;
+    color: #b0b0b0;
+}
+
+
+h4 {
+    font-family: 'sfb';
+    font-size: 25px;
+    color: #b0b0b0;
+}
+
+
+h5 {
+    font-family: 'sfb';
+    font-size: 20px;
+    color: #b0b0b0;
+}
+
+
