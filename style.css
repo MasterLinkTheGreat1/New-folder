@@ -124,8 +124,9 @@ h5 {
 
 
 hr {
-    color:yellow;
+    color:#ABC8C0;
     border-width: 5px;
+    border-color: #ABC8C0;
 }
 
 p {
@@ -143,4 +144,9 @@ p {
 	background-clip: text;
     font-family: 'sfb';
 
+}
+
+.center {
+    text-align: center;
+    align-items: center;
 }
