@@ -85,19 +85,19 @@ table {
     font-style: bold;
 }
 
-a:link {
+a:active {
     color: red;
 }
 
-a:visited {
-    color: red;
+a {
+    color: blueviolet;
 }
 
 a:hover {
     color: blueviolet;
 }
 
-a:active {
+a:visited {
     color: blueviolet;
 }
 
