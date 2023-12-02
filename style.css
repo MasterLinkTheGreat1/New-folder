@@ -124,6 +124,12 @@ h2 {
     color: #b0b0b0;
 }
 
+ul {
+  color: #b0b0b0;
+  font-family: 'sfm';
+  font-size: 30px;
+}
+
 h3 {
     font-family: 'sfb';
     font-size: 50px;
