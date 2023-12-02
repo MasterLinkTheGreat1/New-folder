@@ -3,6 +3,9 @@
 <h1>Hello please read this all for the best understanding on how to run this file</h1>
 <hr/>
 <p style="font-size:30px;">Please run these files in Chrome and Chrome only. Ensure that you are using a PC with a normal-sized monitor to view this file. Failure to follow these instructions may result in an unsatisfactory or impossible website viewing experience. Thank you for using my website!</p>
+<h2>Reflection is here becuase I fan out of time</h2>
+<hr/>
+<p style="font-size:30px;">I will probobly want to be a goverment economist, that is becuase I get to meet with world leaders around the world and meet people who have great infuence over our globe. Another reason is beacause you can get paid huge amounts of money if you make it high in the command.</p>
 
 <hr/>
 <p style="font-size:30px;">Open The <a href="index.html">index.html</a> file</p>
