@@ -11,13 +11,24 @@
 
 <p>
 https://www.investopedia.com
+
 http://cas2.umkc.edu/economics/people/facultypages/kregel/courses/econ645/winter2011/generaltheory.pdf
+
 https://www.uefa.com/insideuefa/awards/
+
 https://bookie0.repl.co/
+
 https://www.indeed.com/career-advice/career-development/economic-certifications
+
 https://www.workwut.com/do-economists-work-for-the-government/
+
 https://www.federalreserve.gov/econres/researchers.htm
+
 https://www.state.gov/about-us-office-of-the-chief-economist/
+
 https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm#Early%20career
+
 https://www.federalpay.org/employees/occupations/economist#:~:text=In%202022%2C%20the%20Bureau%20of%20Labor%20Statistics%20hired,be%20attained%20within%20this%20job%20series%20is%20GS-15
+
+https://www.london.edu/masters-degrees/mba/programme-content/core-courses
 </p>
