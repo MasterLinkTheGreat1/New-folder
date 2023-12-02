@@ -15,13 +15,9 @@
 }
 
 
-::-webkit-scrollbar {
-    width: 12px;
-}
+
   
-::-webkit-scrollbar-track {
-    border-radius: 100vh;
-}
+
   
 ::-webkit-scrollbar-thumb {
     background: linear-gradient(
