@@ -1,16 +1,44 @@
-<html>
-<body>
-<h1>Hello please read this all for the best understanding on how to run this file</h1>
-<hr/>
-<p style="font-size:30px;">Please run these files in Chrome and Chrome only. Ensure that you are using a PC with a normal-sized monitor to view this file. Failure to follow these instructions may result in an unsatisfactory or impossible website viewing experience. Thank you for using my website!</p>
-<h2>Reflection is here becuase I fan out of time</h2>
-<hr/>
-<p style="font-size:30px;">I will probobly want to be a goverment economist, that is becuase I get to meet with world leaders around the world and meet people who have great infuence over our globe. Another reason is beacause you can get paid huge amounts of money if you make it high in the command.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Website Instructions</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
 
-<hr/>
-<p style="font-size:30px;">Open The <a href="index.html">index.html</a> file</p>
-<p>Sources:</p>
-<hr/>
+    h1, h2, p {
+      margin-bottom: 10px;
+    }
+
+    hr {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      border: 0;
+      border-top: 2px solid #333;
+    }
+
+    p {
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Hello, please read this all for the best understanding on how to run this file</h1>
+  <hr/>
+  <p>Please run these files in Chrome and Chrome only. Ensure that you are using a PC with a normal-sized monitor to view this file. Failure to follow these instructions may result in an unsatisfactory or impossible website viewing experience. Thank you for using my website!</p>
+
+  <h2>Reflection is here because I ran out of time</h2>
+  <hr/>
+  <p>I will probably want to be a government economist because I get to meet with world leaders around the world and meet people who have great influence over our globe. Another reason is because you can get paid huge amounts of money if you make it high in the command.</p>
+
+  <hr/>
+  <p>Open the <a href="index.html">index.html</a> file</p>
+  <p>Sources:</p>
+  <hr/>
 
 <p>
 https://www.investopedia.com
@@ -35,3 +63,6 @@ https://www.federalpay.org/employees/occupations/economist#:~:text=In%202022%2C%
 
 https://www.london.edu/masters-degrees/mba/programme-content/core-courses
 </p>
+
+</body>
+</html>
