@@ -3,27 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Website Instructions</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-
-    h1, h2, p {
-      margin-bottom: 10px;
-    }
-
-    hr {
-      margin-top: 20px;
-      margin-bottom: 20px;
-      border: 0;
-      border-top: 2px solid #333;
-    }
-
-    p {
-      font-size: 16px;
-    }
-  </style>
 </head>
 <body>
 
